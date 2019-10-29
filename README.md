@@ -27,9 +27,9 @@
               - Lexical Environment & - Environment Record
               - Data Block
           - 关于七种基本类型的问题
-              - 为什么0.1+ 0.2 不等于0.3（number）
-              - [[1,3,10].map(parseInt)输出什么](https://github.com/Vstar18/FE-knowledge-JS/issues/2)（array&number）
-              - 为什么一些编程规范要求用void（0）代替undefined （undefined）
+              - [为什么0.1+ 0.2 不等于0.3（number）](https://github.com/Vstar18/FE-knowledge-JS/issues/4)
+              - [[1,3,10].map(parseInt)输出什么（array&number）](https://github.com/Vstar18/FE-knowledge-JS/issues/2)
+              - [为什么一些编程规范要求用void（0）代替undefined] (https://github.com/Vstar18/FE-knowledge-JS/issues/3)（undefined）
               - 字符串有最大长度吗（string）
               - symbol是什么（symbol）
               - 为什么给对象添加的方法可以用在基本类上（object）

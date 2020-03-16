@@ -15,7 +15,7 @@
               - null
               - undefined
               - object
-                  - object
+                  - [object](https://github.com/Vstar18/Learn-Books/issues/24)
                   - [array](https://github.com/Vstar18/FE-knowledge-JS/issues/1)
               - symbol
           - 七种语言类型

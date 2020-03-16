@@ -43,6 +43,7 @@
           - 内置对象
   - 算法
     - 模块和内存
+      - [V8垃圾回收](https://github.com/Vstar18/FE-knowledge-JS/issues/11)
     - [事件循环&微任务](https://github.com/Vstar18/FE-knowledge-JS/issues/10)
     - 函数的执行
     - 语句级的执行

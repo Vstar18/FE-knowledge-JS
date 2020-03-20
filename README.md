@@ -30,6 +30,7 @@
               - [javascript规定了几种语言类型](https://github.com/Vstar18/FE-knowledge-JS/issues/13)
               - [基本类型对应的内置对象，以及他们之间的装箱，拆箱操作](https://github.com/Vstar18/FE-knowledge-JS/issues/14)
               - [至少可以说出三种判断JavaScript数据类型的方式，以及他们的优缺点，如何准确的判断数组类型](https://github.com/Vstar18/FE-knowledge-JS/issues/15)
+              - [instanceof实现](https://github.com/Vstar18/FE-knowledge-JS/issues/16)
               - [为什么0.1+ 0.2 不等于0.3（number）](https://github.com/Vstar18/FE-knowledge-JS/issues/4)
               - [[1,3,10].map(parseInt)输出什么（array&number）](https://github.com/Vstar18/FE-knowledge-JS/issues/2)
               - [为什么一些编程规范要求用void（0）代替undefined（undefined)](https://github.com/Vstar18/FE-knowledge-JS/issues/3)

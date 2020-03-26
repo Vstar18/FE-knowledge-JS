@@ -38,7 +38,7 @@
                - 字符串有最大长度，但在开发中基本不会遇到这样的情况
               - symbol是什么（symbol）
               - 为什么给对象添加的方法可以用在基本类上（object）
-              - 实现继承的方式（object）
+              - [实现继承的方式（object）](https://github.com/Vstar18/FE-knowledge-JS/issues/18)
               - 如何判断是否为数组类型，以及各种方式的优缺点（Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()）
               - 深拷贝的实现（object&array）
               - 冒泡排序(array)
@@ -53,3 +53,6 @@
     - [事件循环&微任务](https://github.com/Vstar18/FE-knowledge-JS/issues/10)
     - 函数的执行
     - 语句级的执行
+    - 一些常见的问题
+      - [使用setTimeout模拟实现setInterval](https://github.com/Vstar18/FE-knowledge-JS/issues/16)
+      - [如何保证在页面流畅的前提下渲染海量数据？比如渲染十万条数据（li）](https://github.com/Vstar18/FE-knowledge-JS/issues/17)

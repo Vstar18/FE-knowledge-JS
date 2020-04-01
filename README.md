@@ -33,6 +33,7 @@
               - [instanceof实现](https://github.com/Vstar18/FE-knowledge-JS/issues/15)
               - [为什么0.1+ 0.2 不等于0.3（number）](https://github.com/Vstar18/FE-knowledge-JS/issues/4)
               - [[1,3,10].map(parseInt)输出什么（array&number）](https://github.com/Vstar18/FE-knowledge-JS/issues/2)
+              - [a? if(a == 1 && a == 12)](https://github.com/Vstar18/FE-knowledge-JS/issues/19)
               - [为什么一些编程规范要求用void（0）代替undefined（undefined)](https://github.com/Vstar18/FE-knowledge-JS/issues/3)
               - 字符串有最大长度吗（string）
                - 字符串有最大长度，但在开发中基本不会遇到这样的情况

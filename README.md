@@ -56,3 +56,4 @@
     - 一些常见的问题
       - [使用setTimeout模拟实现setInterval](https://github.com/Vstar18/FE-knowledge-JS/issues/16)
       - [如何保证在页面流畅的前提下渲染海量数据？比如渲染十万条数据（li）](https://github.com/Vstar18/FE-knowledge-JS/issues/17)
+      - [使用Promise实现串联](https://github.com/Vstar18/FE-knowledge-JS/issues/18)

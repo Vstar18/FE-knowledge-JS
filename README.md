@@ -45,7 +45,7 @@
               - 冒泡排序(array)
               - 拷贝数组，但不改变元数组(array)
               - [null和undefined的区别](https://github.com/Vstar18/FE-knowledge-JS/issues/12)
-
+          - [闭包](https://github.com/Vstar18/FE-knowledge-JS/issues/24)
       - 实例
           - 内置对象
   - 算法
